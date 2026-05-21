@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, education, experience, and contact information — built to reflect who I am as a developer and problem-solver.
 
-🔗 **Live Site**: *Coming Soon*
+🔗 **Live Site**: https://jhagagan.vercel.app/
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 📁 Project Structure
 
-```
+```bash
 ├── public/
 │   └── index.html
 ├── src/
@@ -43,33 +43,3 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 ├── package.json
 ├── vite.config.js
 └── README.md
-```
-
----
-
-## 🚀 Getting Started Locally
-
-To run the project locally:
-
-```bash
-git clone command : gh repo clone jhaGagan0/Portfolio
-cd portfolio
-npm install
-npm run dev
-```
-
----
-
-## 📬 Contact Me
-
-If you want to collaborate or just say hello:
-
-* ✉️ **Email**: [gkjha1495@gmail.com](mailto:gkjha1495@gmail.com)
-* 🔗 **LinkedIn**: [linkedin.com/in/gaganjha18](https://www.linkedin.com/in/gaganjha18/)
-* 💻 **GitHub**: [github.com/jhaGagan0](https://github.com/jhaGagan0)
-* 🐦 **Twitter**: [twitter.com/gaganjha140905](https://twitter.com/gaganjha140905)
-* 📸 **Instagram**: [instagram.com/gagan.jha19](https://instagram.com/gagan.jha19)
-
----
-
-**Designed and developed by Gagan Jha**
