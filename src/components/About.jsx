@@ -16,18 +16,13 @@ export default function About() {
 
         <div className="col-md-7 order-2 order-md-1">
           <p style={{ fontSize: "1rem", lineHeight: "1.8" }}>
-      <p>
-  I'm a <strong>Data Analyst & Data Science/AI-ML Enthusiast</strong> and <strong>Front-End Developer</strong> focused on clean, accessible, and modern UI/UX with a strong data-driven mindset.
-  I work primarily with <strong>Python</strong> and <strong>Power BI</strong>, transforming data into actionable insights, interactive dashboards, and lightweight ML prototypes.
-  <br /><br />
-  I build user-friendly web interfaces and tools—from analytics dashboards and reporting views to interactive apps—balancing usability, performance, and clarity to solve real-world problems.
-  <br /><br />
-  I'm also an active <strong>problem solver</strong>, with 600+ problems solved across LeetCode and GeeksforGeeks. I regularly participate in coding contests and have recently started competing on Codeforces.
-  <br /><br />
-  My goal is to grow into a <strong>Data Scientist</strong>, applying statistical thinking, machine learning, and thoughtful design to deliver measurable impact.
-  <br /><br />
-  Feel free to check out my GitHub 😊
-</p>
+            I'm a <strong>Data Analyst</strong> and aspiring <strong>Data Scientist</strong> with hands-on experience in Python, SQL, Power BI, and Machine Learning. I enjoy working with real-world data to uncover insights, build interactive dashboards, and develop practical AI/ML solutions that solve meaningful problems.
+            <br /><br />
+            My experience includes NLP-based machine learning projects, business intelligence dashboards, and data storytelling focused on turning complex information into clear, actionable insights. I've worked with tools and libraries such as <strong>Pandas, NumPy, Scikit-learn, NLTK, SpaCy, Power BI, and Tableau</strong>, along with SQL for advanced querying and analysis.
+            <br /><br />
+            I also co-authored a peer-reviewed research paper presented at the <strong>ICSDCT 2025</strong>, where I explored data-driven machine learning approaches for water quality evaluation. Alongside academics, I actively participate in hackathons, coding contests, and cloud-based learning programs, with achievements including <strong>Google Cloud Arcade Legend Tier</strong> and finalist recognition at <strong>HackArena 2.0</strong>.
+            <br /><br />
+            My goal is to grow into a <strong>Data Scientist</strong> who combines analytics, machine learning, and business understanding to create impactful, data-driven solutions.
           </p>
         </div>
       </div>
